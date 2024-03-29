@@ -1,0 +1,29 @@
+{
+    "name": "weather-app",
+    "version": "1.0.0",
+    "description": "A weather application created by Arivuselvan.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/"
+    },
+    "author": "Arivuselvan Chinnasamy",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/"
+    },
+    "homepage": "https://github.com/",
+    "dependencies": {
+      "body-parser": "^1.18.3",
+      "bootstrap": "^4.5.0",
+      "ejs": "^2.6.1",
+      "express": "^4.16.3",
+      "jquery": "^3.5.0",
+      "request": "^2.87.0"
+    }
+  }
+  
